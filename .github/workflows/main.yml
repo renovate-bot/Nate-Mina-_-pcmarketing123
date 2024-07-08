@@ -1,8 +1,3 @@
-name: Setup Autify Command Line Interface (CLI)
-  uses: autifyhq/actions-setup-cli@v2.1.2
-  with:
-    # Shell installer URL
-    shell-installer-url: # optional, default is https://autify-cli-assets.s3.amazonaws.com/autify-cli/channels/stable/install-cicd.bash
 name: generate-snake-game-from-github-contribution-grid
   uses: Platane/snk@v3.2.0
             
